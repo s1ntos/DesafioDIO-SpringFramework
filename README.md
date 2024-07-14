@@ -10,7 +10,6 @@ Este repositório demonstra a implementação do Padrão de Projeto Singleton em
 - [Vantagens e Desvantagens](#vantagens-e-desvantagens)
 - [Casos de Uso na Vida Real](#casos-de-uso-na-vida-real)
 - [Recursos Adicionais](#recursos-adicionais)
-- [Licença](#licença)
 
 ## Introdução
 O padrão Singleton é um padrão de projeto que restringe a instanciação de uma classe a uma única instância e fornece um ponto global de acesso a ela. Isso é útil para gerenciar recursos que precisam ser compartilhados de maneira controlada.
